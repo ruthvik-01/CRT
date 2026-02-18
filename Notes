@@ -1,0 +1,4 @@
+rect-area=l*b    l*b*h
+cirlce-area = 3.14*r*r   2*3.14*r
+square-area=s*s   s*s*s
+
