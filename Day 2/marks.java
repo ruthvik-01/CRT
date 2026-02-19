@@ -24,6 +24,6 @@ public class marks {
             int a = sc.nextInt();
             checkMarks(a);
         }
-
+        sc.close();
     }
 }
