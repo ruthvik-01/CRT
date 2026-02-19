@@ -15,5 +15,6 @@ public class pyramid {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

@@ -16,5 +16,7 @@ public class invpy {
             }
             System.out.println();
         }
+        sc.close();
     }
+
 }

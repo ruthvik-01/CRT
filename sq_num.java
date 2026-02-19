@@ -14,6 +14,7 @@ public class sq_num {
             }
             System.out.println();
         }
+        sc.close();
 
     }
 }

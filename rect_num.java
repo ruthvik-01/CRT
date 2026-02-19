@@ -14,6 +14,7 @@ public class rect_num {
             }
             System.out.println();
         }
+        sc.close();
 
     }
 }

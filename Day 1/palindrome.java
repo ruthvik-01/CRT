@@ -1,5 +1,5 @@
 public class palindrome {
-    static boolean palindrome(int n) {
+    static boolean palindrome1(int n) {
         int rev = 0;
         int temp = n;
         while (n > 0) {
@@ -12,6 +12,6 @@ public class palindrome {
 
     public static void main(String[] args) {
         int n = 121;
-        System.out.println(palindrome(n));
+        System.out.println(palindrome1(n));
     }
 }

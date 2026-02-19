@@ -16,6 +16,7 @@ public class rarat {
             }
             System.out.println();
         }
+        sc.close();
     }
 
 }

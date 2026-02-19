@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class marks {
-    static void marks(int a) {
+    static void checkMarks(int a) {
         if ((a > 35) && (a < 50)) {
             System.out.println("just pass can do better: " + a);
 
@@ -22,7 +22,7 @@ public class marks {
         for (int i = 0; i < 1;) {
             System.out.println("Enter marks: ");
             int a = sc.nextInt();
-            marks(a);
+            checkMarks(a);
         }
 
     }

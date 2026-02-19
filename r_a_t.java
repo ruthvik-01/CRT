@@ -16,6 +16,7 @@ public class r_a_t {
             }
             System.out.println();
         }
+        sc.close();
 
     }
 }
