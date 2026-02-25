@@ -80,9 +80,9 @@ public class canteen {
             System.out.println("|       Non-Veg Lunch             |");
             System.out.println("---------------------------------");
             System.out.println("| Enter your choice :             |");
-            System.out.println("| 1. Chicken Biryani : Cost ₹100  |");
-            System.out.println("| 2. Mutton Biryani  : Cost ₹50   |");
-            System.out.println("| 3. Fish Biryani    : Cost ₹150  |");
+            System.out.println("| 1. Chicken Biryani : Cost 100  |");
+            System.out.println("| 2. Mutton Biryani  : Cost 50   |");
+            System.out.println("| 3. Fish Biryani    : Cost 150  |");
             System.out.println("| 4. Exit                         |");
             System.out.println("---------------------------------");
 
@@ -90,13 +90,13 @@ public class canteen {
 
             switch (choice) {
                 case 1:
-                    System.out.println("Product cost : ₹100\n" + "With tax : ₹112");
+                    System.out.println("Product cost : 100\n" + "With tax : 112");
                     break;
                 case 2:
-                    System.out.println("Product cost : ₹50\n" + "With tax : ₹55");
+                    System.out.println("Product cost : 50\n" + "With tax : 55");
                     break;
                 case 3:
-                    System.out.println("Product cost : ₹150\n" + "With tax : ₹162");
+                    System.out.println("Product cost : 150\n" + "With tax : 162");
                     break;
                 case 4:
                     System.exit(0);
@@ -116,10 +116,10 @@ public class canteen {
             System.out.println("|           Tiffin           |");
             System.out.println("----------------------------");
             System.out.println("| Enter your choice :        |");
-            System.out.println("| 1. Vada : Cost ₹10         |");
-            System.out.println("| 2. Dosa : Cost ₹20         |");
-            System.out.println("| 3. Idli : Cost ₹30         |");
-            System.out.println("| 4. Puri : Cost ₹40         |");
+            System.out.println("| 1. Vada : Cost 10         |");
+            System.out.println("| 2. Dosa : Cost 20         |");
+            System.out.println("| 3. Idli : Cost 30         |");
+            System.out.println("| 4. Puri : Cost 40         |");
             System.out.println("| 5. Exit                    |");
             System.out.println("----------------------------");
 
@@ -127,16 +127,16 @@ public class canteen {
 
             switch (choice) {
                 case 1:
-                    System.out.println("Product cost : ₹10\n" + "With tax : ₹12");
+
                     break;
                 case 2:
-                    System.out.println("Product cost : ₹20\n" + "With tax : ₹22");
+                    System.out.println("Product cost : 20\n" + "With tax : 22");
                     break;
                 case 3:
-                    System.out.println("Product cost : ₹30\n" + "With tax : ₹32");
+                    System.out.println("Product cost : 30\n" + "With tax : 32");
                     break;
                 case 4:
-                    System.out.println("Product cost : ₹40\n" + "With tax : ₹42");
+                    System.out.println("Product cost : 40\n" + "With tax : 42");
                     break;
                 case 5:
                     System.exit(0);
@@ -156,10 +156,10 @@ public class canteen {
             System.out.println("|         Veg Lunch          |");
             System.out.println("----------------------------");
             System.out.println("| Enter your choice :        |");
-            System.out.println("| 1. Veg Biryani : Cost ₹100 |");
-            System.out.println("| 2. Dal         : Cost ₹50  |");
-            System.out.println("| 3. Panner      : Cost ₹150 |");
-            System.out.println("| 4. Curd        : Cost ₹100 |");
+            System.out.println("| 1. Veg Biryani : Cost 100 |");
+            System.out.println("| 2. Dal         : Cost 50  |");
+            System.out.println("| 3. Panner      : Cost 150 |");
+            System.out.println("| 4. Curd        : Cost 100 |");
             System.out.println("| 5. Exit                    |");
             System.out.println("----------------------------");
 
@@ -167,16 +167,16 @@ public class canteen {
 
             switch (choice) {
                 case 1:
-                    System.out.println("Product cost : ₹100\n" + "With tax : ₹112");
+                    System.out.println("Product cost : 100\n" + "With tax : 112");
                     break;
                 case 2:
-                    System.out.println("Product cost : ₹50\n" + "With tax : ₹55");
+                    System.out.println("Product cost : 50\n" + "With tax : 55");
                     break;
                 case 3:
-                    System.out.println("Product cost : ₹150\n" + "With tax : ₹162");
+                    System.out.println("Product cost : 150\n" + "With tax : 162");
                     break;
                 case 4:
-                    System.out.println("Product cost : ₹100\n" + "With tax : ₹112");
+                    System.out.println("Product cost : 100\n" + "With tax : 112");
                     break;
                 case 5:
                     System.exit(0);
@@ -196,10 +196,10 @@ public class canteen {
             System.out.println("|           Dinner           |");
             System.out.println("----------------------------");
             System.out.println("| Enter your choice :        |");
-            System.out.println("| 1. Veg Biryani : Cost ₹100 |");
-            System.out.println("| 2. Dal         : Cost ₹50  |");
-            System.out.println("| 3. Chicken Biryani : Cost ₹150 |");
-            System.out.println("| 4. Curd        : Cost ₹100 |");
+            System.out.println("| 1. Veg Biryani : Cost 100 |");
+            System.out.println("| 2. Dal         : Cost 50  |");
+            System.out.println("| 3. Chicken Biryani : Cost 150 |");
+            System.out.println("| 4. Curd        : Cost 100 |");
             System.out.println("| 5. Exit                  |");
             System.out.println("----------------------------");
 
@@ -207,16 +207,16 @@ public class canteen {
 
             switch (choice) {
                 case 1:
-                    System.out.println("Product cost : ₹100\n" + "With tax : ₹112");
+                    System.out.println("Product cost : 100\n" + "With tax : 112");
                     break;
                 case 2:
-                    System.out.println("Product cost : ₹50\n" + "With tax : ₹55");
+                    System.out.println("Product cost : 50\n" + "With tax : 55");
                     break;
                 case 3:
-                    System.out.println("Product cost : ₹150\n" + "With tax : ₹162");
+                    System.out.println("Product cost : 150\n" + "With tax : 162");
                     break;
                 case 4:
-                    System.out.println("Product cost : ₹100\n" + "With tax : ₹112");
+                    System.out.println("Product cost : 100\n" + "With tax : 112");
                     break;
                 case 5:
                     System.exit(0);
@@ -236,10 +236,10 @@ public class canteen {
             System.out.println("|          Snacks            |");
             System.out.println("----------------------------");
             System.out.println("| Enter your choice :      |");
-            System.out.println("| 1. Chips       : Cost ₹100 |");
-            System.out.println("| 2. Chocolates  : Cost ₹50  |");
-            System.out.println("| 3. Biscuits    : Cost ₹150 |");
-            System.out.println("| 4. Cookies     : Cost ₹100 |");
+            System.out.println("| 1. Chips       : Cost 100 |");
+            System.out.println("| 2. Chocolates  : Cost 50  |");
+            System.out.println("| 3. Biscuits    : Cost 150 |");
+            System.out.println("| 4. Cookies     : Cost 100 |");
             System.out.println("| 5. Exit                  |");
             System.out.println("----------------------------");
 
@@ -247,16 +247,16 @@ public class canteen {
 
             switch (choice) {
                 case 1:
-                    System.out.println("Product cost : ₹100\n" + "With tax : ₹112");
+                    System.out.println("Product cost : 100\n" + "With tax : 112");
                     break;
                 case 2:
-                    System.out.println("Product cost : ₹50\n" + "With tax : ₹55");
+                    System.out.println("Product cost : 50\n" + "With tax : 55");
                     break;
                 case 3:
-                    System.out.println("Product cost : ₹150\n" + "With tax : ₹162");
+                    System.out.println("Product cost : 150\n" + "With tax : 162");
                     break;
                 case 4:
-                    System.out.println("Product cost : ₹100\n" + "With tax : ₹112");
+                    System.out.println("Product cost : 100\n" + "With tax : 112");
                     break;
                 case 5:
                     System.exit(0);
@@ -276,10 +276,10 @@ public class canteen {
             System.out.println("|        Beverages           |");
             System.out.println("----------------------------");
             System.out.println("| Enter your choice :      |");
-            System.out.println("| 1. Coke      : Cost ₹100 |");
-            System.out.println("| 2. Fanta     : Cost ₹50  |");
-            System.out.println("| 3. Pepsi     : Cost ₹150 |");
-            System.out.println("| 4. Sprite    : Cost ₹100 |");
+            System.out.println("| 1. Coke      : Cost 100 |");
+            System.out.println("| 2. Fanta     : Cost 50  |");
+            System.out.println("| 3. Pepsi     : Cost 150 |");
+            System.out.println("| 4. Sprite    : Cost 100 |");
             System.out.println("| 5. Exit                  |");
             System.out.println("----------------------------");
 
@@ -287,16 +287,16 @@ public class canteen {
 
             switch (choice) {
                 case 1:
-                    System.out.println("Product cost : ₹100\n" + "With tax : ₹112");
+                    System.out.println("Product cost : 100\n" + "With tax : 112");
                     break;
                 case 2:
-                    System.out.println("Product cost : ₹50\n" + "With tax : ₹55");
+                    System.out.println("Product cost : 50\n" + "With tax : 55");
                     break;
                 case 3:
-                    System.out.println("Product cost : ₹150\n" + "With tax : ₹162");
+                    System.out.println("Product cost : 150\n" + "With tax : 162");
                     break;
                 case 4:
-                    System.out.println("Product cost : ₹100\n" + "With tax : ₹112");
+                    System.out.println("Product cost : 100\n" + "With tax : 112");
                     break;
                 case 5:
                     System.exit(0);
